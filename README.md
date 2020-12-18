@@ -1,6 +1,6 @@
 # HashDemo
 
-This is an application that visualizes the heap data structure.
+This is an application that visualizes the hash table data structure.
 
 ## Usage
 
