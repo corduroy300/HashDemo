@@ -1,12 +1,12 @@
 # HashDemo
 
-This is an application that visualizes the hash table data structure.
+This is an application that visualizes the Hash Table data structure.
 
 ## Usage
 
 `java HashDemo {1|2}`
 
-Supports Open Adressing and Separate Chaining hashtable types.
+Supports [Open Addressing](https://en.wikipedia.org/wiki/Hash_table#Open_addressing) and [Separate Chaining](https://en.wikipedia.org/wiki/Hash_table#Separate_chaining) hashtable types.
 
 ## Options
 
