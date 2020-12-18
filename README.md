@@ -3,8 +3,11 @@
 This is an application that visualizes the Hash Table data structure.
 
 ## Usage
-
-`java HashDemo {1|2}`
+```
+java HashDemo {1|2}
+1 - Use Open Addressing
+2 - Use Separate Chaining
+```
 
 Supports [Open Addressing](https://en.wikipedia.org/wiki/Hash_table#Open_addressing) and [Separate Chaining](https://en.wikipedia.org/wiki/Hash_table#Separate_chaining) hashtable types.
 
